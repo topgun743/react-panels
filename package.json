@@ -1,6 +1,6 @@
 {
   "name": "react-panels-extended",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Forked from react-panels (version 2.5.2). A React.js panel component with tabs, toolbars, buttons, floating windows and customizable themes",
   "repository": {
     "type": "git",
