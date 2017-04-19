@@ -4,7 +4,7 @@ react-panels-extended
 ### This is a work in Progress. Not to be used currently for production.
 
 ### Extended from [react-panels] (https://github.com/Theadd/react-panels) 
-A multipurpose tabbed panel component with many features. Using [React](http://facebook.github.io/react/) **v0.13.1** with addons.
+A multipurpose tabbed panel component with many features.
 
 ## Install
 
