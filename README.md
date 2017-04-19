@@ -3,16 +3,16 @@ react-panels-extended
 
 ### This is a work in Progress. Not to be used currently for production.
 
-### Extended from [react-panels] (https://github.com/Theadd/react-panels) 
+### Forked from [react-panels] (https://github.com/Theadd/react-panels) 
 A multipurpose tabbed panel component with many features.
 
 ## Install
 
 **Using bower**
 ```sh
-bower install react-panels
+bower install react-panels-extended
 ```
-Include ```bower_components/react-panels/dist/react-panels[.min].js``` after ```react-with-addons[.min].js```
+Include ```bower_components/react-panels-extended/dist/react-panels[.min].js``` after ```react-with-addons[.min].js```
 
 **Using npm**
 ```sh
